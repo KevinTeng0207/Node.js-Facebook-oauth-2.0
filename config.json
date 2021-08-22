@@ -1,0 +1,7 @@
+{
+    "Facebook": {
+        "facebook_client_id": "",
+        "facebook_secret_id": "",
+        "facebook_redirect_uri": "https://localhost:4000/facebookcallback"
+    }
+}
